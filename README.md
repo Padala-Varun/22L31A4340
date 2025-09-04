@@ -32,6 +32,6 @@
 - `GET /api/:code` - Redirect to original URL
 - `GET /api/info/:code` - Get info about a shortened URL
 
-![App Screenshot](./assets/readme.png)
+![App Screenshot](./url-shortener/assets/readme.png)
 
-![App Screenshot](./assets/readme-2.png)
+![App Screenshot](./url-shortener/assets/readme-2.png)
